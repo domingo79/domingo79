@@ -1,16 +1,44 @@
-### Hi there 👋 Welcome to my GitHub! I'm Domenico Santo
+# Hi there 👋 Welcome to my GitHub! I'm Domenico Santo
+## Web developer student at Boolean ![Boolean](/images/boolean.png)
 
-<!--
-**domingo79/domingo79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
+const Domenico = {
+    code:['HTML', 'CSS', 'SCSS'. 'javascript', 'PHP'],
+    askMeAbout: ['web dev', 'beer', 'tech', 'football', 'smoke', 'coffee'],
+    frontEnd: {
+        css: [
+            'Bootstrap',
+            'Sass'
+        ],
+        javascript: [
+            'Vuejs'
+        ]
+    },
+    backEnd: {
+        db: ['MySql'],
+        php: ['Laravel']
+    }
+};
+```
 
-Here are some ideas to get you started:
+---
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍🎓 I’m currently learning / improving on:
+
+![Laravel](/images/css.png)
+![Laravel](/images/html.png)
+![Laravel](/images/bootstrap.png)
+![Laravel](/images/sass.png)
+![Laravel](/images/javascript.png)
+![Laravel](/images/vue.png)
+![Laravel](/images/php.png)
+![Laravel](/images/phpmyadmin.png)
+![Laravel](/images/mysql.png)
+![Laravel](/images/laravel.png)
+
+---
+---
+|Name|LastName|Email|
+|----|--------|-----|
+|Domenico|Santo|domenicosanto.dev@gmail.com
