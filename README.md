@@ -1,5 +1,5 @@
 # Hi there 👋 Welcome to my GitHub! I'm Domenico Santo
-## Web developer student at Boolean ![Boolean](/images/boolean.png)
+## Jr developer student at Bitcamp ![Python Developer & AI](https://bitcamp.it)
 
 ```javascript
 const Domenico = {
