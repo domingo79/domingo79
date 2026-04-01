@@ -1,44 +1,115 @@
-# Hi there 👋 Welcome to my GitHub! I'm Domenico Santo
-## Jr developer student at ["Bitcamp, Python & AI"](https://bitcamp.it)
+# Hi there 👋 I'm Domenico Santo
 
-```javascript
-const Domenico = {
-    code:['HTML', 'CSS', 'SCSS'. 'javascript', 'PHP'],
-    askMeAbout: ['web dev', 'beer', 'tech', 'football', 'smoke', 'coffee'],
-    frontEnd: {
-        css: [
-            'Bootstrap',
-            'Sass'
-        ],
-        javascript: [
-            'Vuejs'
-        ]
-    },
-    backEnd: {
-        db: ['MySql'],
-        php: ['Laravel']
-    }
-};
+### Python Developer in training | Salesforce Consultant | Web Developer
+
+Passionate about technology, clean code, and continuous learning.
+
+I have almost 5 years of experience in the Salesforce ecosystem, with 5 Salesforce certifications, a strong background in web development, and I am currently specializing in Python and Artificial Intelligence.
+
+Today my focus is on building practical skills in Python, automation, backend development, APIs, and AI tools, while combining them with my previous experience in Salesforce consulting and web development.
+
+---
+
+## 🚀 About Me
+
+* 💻 Web development background with experience in frontend and backend technologies
+* 🐍 Currently studying Python and Artificial Intelligence at Bitcamp
+* ☁️ Nearly 5 years of experience in Salesforce consulting and development
+* 🏆 Holder of 5 Salesforce certifications
+* 🔧 Interested in automation, APIs, backend development, and AI
+* 📚 Always learning new technologies and improving my coding skills
+
+---
+
+## 👨‍💻 Tech Stack
+
+```python
+Domenico = {
+    "languages": ["Python", "JavaScript", "PHP", "HTML", "CSS", "SCSS"],
+    "frontend": ["Bootstrap", "Sass", "Vue.js"],
+    "backend": ["Laravel", "MySQL"],
+    "salesforce": [
+        "Sales Cloud",
+        "Service Cloud",
+        "Flows",
+        "Reports & Dashboards",
+        "Administration"
+    ],
+    "currently_learning": [
+        "Python",
+        "Artificial Intelligence",
+        "APIs",
+        "Automation",
+        "Backend Development"
+    ],
+    "interests": [
+        "Web Development",
+        "Salesforce",
+        "Python",
+        "AI",
+        "Tech"
+    ],
+    "libraries": [
+        "Pandas",
+        "NumPy",
+        "Scikit-learn",
+        "Matplotlib",
+        "Streamlit",
+        "Seaborn",
+        "Requests"
+    ]
+}
 ```
 
 ---
----
 
-👨‍🎓 I’m currently learning / improving on:
+## 🌱 Currently Learning
 
-![Laravel](/images/css.png)
-![Laravel](/images/html.png)
-![Laravel](/images/bootstrap.png)
-![Laravel](/images/sass.png)
-![Laravel](/images/javascript.png)
-![Laravel](/images/vue.png)
-![Laravel](/images/php.png)
-![Laravel](/images/phpmyadmin.png)
-![Laravel](/images/mysql.png)
-![Laravel](/images/laravel.png)
+* Python
+* Artificial Intelligence
+* REST APIs
+* Backend development
+* Automation scripts
+* Data analysis fundamentals
 
 ---
+
+## 🛠️ Main Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge\&logo=sass\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge\&logo=vuedotjs\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge\&logo=salesforce\&logoColor=white)
+
 ---
-|Name|LastName|Email|
-|----|--------|-----|
-|Domenico|Santo|domenicosanto.dev@gmail.com
+
+## 🏅 Salesforce
+
+I have earned 5 Salesforce certifications and worked for several years in consulting and CRM solutions.
+
+Main areas:
+
+* Salesforce Administration
+* Flows & Automation
+* Reports & Dashboards
+* User Management
+* Sales Cloud
+* Service Cloud
+
+---
+
+## 📫 Contact Me
+
+* 📧 [domenicosanto.dev@gmail.com](mailto:domenicosanto.dev@gmail.com)
+* 💼 [LinkedIn Domenico Santo](https://www.linkedin.com/in/domenico-santo)
+
+---
+
+> “Never stop learning, because technology never stops evolving.”
