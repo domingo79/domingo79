@@ -1,5 +1,5 @@
 # Hi there 👋 Welcome to my GitHub! I'm Domenico Santo
-## Jr developer student at !["Bitcamp, Python & AI"](https://bitcamp.it)
+## Jr developer student at ["Bitcamp, Python & AI"](https://bitcamp.it)
 
 ```javascript
 const Domenico = {
